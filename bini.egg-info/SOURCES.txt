@@ -1,0 +1,9 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+bini.py
+setup.py
+bini.egg-info/PKG-INFO
+bini.egg-info/SOURCES.txt
+bini.egg-info/dependency_links.txt
+bini.egg-info/top_level.txt
