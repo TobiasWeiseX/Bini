@@ -4,7 +4,6 @@ bini
 This library gives you a bunch of functions to read, write and manipulate binary ini-files
 used in windows programms like the game Freelancer.
 
-
 ```python
 from bini import *
 
@@ -23,4 +22,10 @@ if __name__ == "__main__":
     writeIni("empathy.ini.txt", b)
     writeBini("empathy2.ini", negateEmpathy(b))
     print(biniToStr(b))
+```
+
+Install with
+
+```bash
+pip install bini
 ```
